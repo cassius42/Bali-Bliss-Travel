@@ -500,17 +500,18 @@ hr {
     order: 1;
   }
   .person-img img {
-    height: 200px;
+    height: 220px;
     width: 100%;
+    margin-top: 0px;
   }
   .img-wording h5 {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 26px;
     margin-top: 8px;
   }
   .img-wording p {
-    margin: -28px 20px 50px 20px;
-    font-size: 15px;
+    margin: -28px 20px 40px 20px;
+    font-size: 14px;
     text-align: center;
   }
 
@@ -528,8 +529,8 @@ hr {
     width: 300px;
   }
   iframe {
-    width: 300px;
-    height: 200px;
+    width: 350px;
+    height: 250px;
     border-radius: 10px;
     margin-bottom: 20px;
   }
